@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Sanjaymavi
-- 👀 I’m interested in doing projects on ML
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ML 
-- 📫 How to reach me ...
+
 
 <!---
 Sanjaymavi/Sanjaymavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
